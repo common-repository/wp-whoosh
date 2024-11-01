@@ -1,0 +1,10 @@
+form#api_key_signup { width:250px; text-align:center; margin-top: -20px; }
+form#api_key_signup label { font-weight: bold}
+form#api_key_signup label#lsubject { display: none;}
+form#api_key_signup input[type="text"] { width:150px; background-color:#FDF6DC;}
+form#api_key_signup input[type="submit"] { width:250px; height:72px; border:0;
+  background-repeat: no-repeat; background-color:transparent;
+  background-image: url(images/get-api-key-button.png); cursor:pointer;
+}
+h4 { color: #F12506; font-size: 1.4em; }p { font-size: 1.2em; }
+p.api-key-notice { font-weight: bold; font-style: italic; }

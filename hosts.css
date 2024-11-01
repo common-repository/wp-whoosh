@@ -1,0 +1,10 @@
+th.column-cpanel_url, td.column-cpanel_url { width: 25%; }
+#host_form label { display: inline-block; min-width: 120px; margin-right: 10px; vertical-align: top; }
+#host_form label.error { padding-left: 10px; color:#f00; font-weight:bold; display:block;} 
+#host_form input.error { border: 1px solid red; background-color : #FEE; } 
+#host_form input[type='checkbox'] { margin: 3px; } 
+.wp-dialog.ui-dialog .ui-dialog-titlebar { background-color: #FF0008; }
+.wp-dialog p { margin-left: 1.5em; }
+.wp-dialog form { padding: 1.5em; position: relative; }
+.wp-dialog #validateTips { border: 1px solid transparent; color: #E80000; }
+.wshtooltip { min-width: 110px; }
